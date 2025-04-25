@@ -1,3 +1,5 @@
+[![MseeP Badge](https://mseep.net/pr/puravparab-gitingest-mcp-badge.jpg)](https://mseep.ai/app/puravparab-gitingest-mcp)
+
 # Gitingest-MCP ![smithery badge](https://smithery.ai/badge/@puravparab/gitingest-mcp)
 
 An MCP server for [gitingest](https://github.com/cyclotruc/gitingest). This allows MCP clients like Claude Desktop, Cline, Cursor, etc to quickly extract information about Github repositories including
