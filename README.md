@@ -1,4 +1,4 @@
-# Gitingest-MCP ![smithery badge](https://smithery.ai/badge/@puravparab/gitingest-mcp)
+# Gitingest-MCP [![Listed on LightNow](https://lightnow.ai/badge/io.github.puravparab/gitingest-mcp?variant=listed)](https://lightnow.ai/servers/io.github.puravparab/gitingest-mcp)
 
 An MCP server for [gitingest](https://github.com/cyclotruc/gitingest). This allows MCP clients like Claude Desktop, Cline, Cursor, etc to quickly extract information about Github repositories including
 
